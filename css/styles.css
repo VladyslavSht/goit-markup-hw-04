@@ -36,10 +36,10 @@ body {
   margin: 0;
 }
 
-a,
+/*a,
 button {
   outline: none;
-}
+}*/
 
 .link {
   text-decoration: none;
@@ -94,7 +94,7 @@ img {
 /*navigation*/
 
 .top {
-  outline: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
 }
 
 .main-nav {
